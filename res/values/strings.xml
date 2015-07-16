@@ -4,5 +4,13 @@
     <string name="app_name">Laboratorio09</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="tab_venda">Venda</string>
+    <string name="dica_modelo_moto">Modelo da Moto</string>
+    <string name="dica_ano_fabricacao">Ano de Fabricação</string>
+    <string name="tab_aluguel">Aluguel</string>
+    <string name="tab_clientes">Clientes</string>
+   
 
 </resources>
